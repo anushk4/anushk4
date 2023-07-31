@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 > "In theory, theory and practice are the same. In practice, they’re not." - Yoggi Berra
 
 &nbsp;&nbsp;&nbsp;
-### Skilled at the following:
+### ⚡Skilled at the following:
 - Python
 - C
 - Dart
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - Java
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-#### Reach out to me through [LinkedIn](https://www.linkedin.com/in/anushka-srivastava-798540255/)
+#### 📫Reach out to me through [LinkedIn](https://www.linkedin.com/in/anushka-srivastava-798540255/)
