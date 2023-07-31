@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😇Sophomore at (Indraprastha Institute of Information Technology, Delhi) [iiitd.ac.in], pursuing B. Tech in CSE.
+- 😇Sophomore at [Indraprastha Institute of Information Technology, Delhi] (iiitd.ac.in), pursuing B. Tech in CSE.
 - 🌱Currently learning web development and app development.
 - 🙌Interested to learn Machine Learning and Artificial Intelligence in the future.
 
-
+&nbsp;&nbsp;&nbsp;
 > "In theory, theory and practice are the same. In practice, they’re not." - Yoggi Berra
 
-
+&nbsp;&nbsp;&nbsp;
 #### Skilled at the following:
 - Python
 - C
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 - Flutter
 - Java
 
-
-Reach out to me through (LinkedIn)[linkedin.com/in/anushka-srivastava-798540255]
+&nbsp;&nbsp;
+Reach out to me through [LinkedIn](linkedin.com/in/anushka-srivastava-798540255)
