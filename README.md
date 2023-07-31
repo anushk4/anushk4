@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 &nbsp;&nbsp;
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushk4&layout=donut)](https://github.com/anushk4/github-readme-stats)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 #### 📫Reach out to me through [LinkedIn](https://www.linkedin.com/in/anushka-srivastava-798540255/)
