@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - 🌱Currently learning web development and app development.
 - 🙌Interested to learn Machine Learning and Artificial Intelligence in the future.
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp
 > "In theory, theory and practice are the same. In practice, they’re not." - Yoggi Berra
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 ### ⚡Skilled at the following:
 - Python
 - C
@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushk4&layout=donut&theme=highcontrast)](https://github.com/anushk4/github-readme-stats)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 ## 📫Reach out to me through [LinkedIn](https://www.linkedin.com/in/anushka-srivastava-798540255/)
