@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anushk4&layout=donut&theme=highcontrast)](https://github.com/anushk4/github-readme-stats)
 
+&nbsp;&nbsp;
+### 💻Tech Stack:
+![Python](https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=4584b6)
+
 
 &nbsp;&nbsp;
 ## 📫Reach out to me through [LinkedIn](https://www.linkedin.com/in/anushka-srivastava-798540255/)
