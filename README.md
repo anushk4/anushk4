@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 &nbsp;&nbsp;
 ### 💻Tech Stack:
-![Python](https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=4584b6)
+![Static Badge](https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=4584b6)
 
 
 &nbsp;&nbsp;
