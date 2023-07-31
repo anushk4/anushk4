@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Anushka Srivastava 👋
 
 <!--
 **anushk4/anushk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😇Sophomore at (Indraprastha Institute of Information Technology, Delhi) [iiitd.ac.in], pursuing B. Tech in CSE.
+- 🌱Currently learning web development and app development.
+- 🙌Interested to learn Machine Learning and Artificial Intelligence in the future.
+
+
+> "In theory, theory and practice are the same. In practice, they’re not." - Yoggi Berra
+
+
+#### Skilled at the following:
+- Python
+- C
+- Dart
+- HTML
+- CSS
+- Flutter
+- Java
+
+
+Reach out to me through (LinkedIn)[linkedin.com/in/anushka-srivastava-798540255]
