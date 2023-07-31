@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 &nbsp;
 ### Top Languages
 <a href="https://github.com/anushk4/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushk4a&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushk4&layout=compact&langs_count=8&card_width=320" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 #### 📫Reach out to me through [LinkedIn](https://www.linkedin.com/in/anushka-srivastava-798540255/)
