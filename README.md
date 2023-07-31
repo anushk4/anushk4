@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😇Sophomore at [Indraprastha Institute of Information Technology, Delhi] (iiitd.ac.in), pursuing B. Tech in CSE.
+- 😇Sophomore at [Indraprastha Institute of Information Technology, Delhi](https://www.iiitd.ac.in/), pursuing B. Tech in CSE.
 - 🌱Currently learning web development and app development.
 - 🙌Interested to learn Machine Learning and Artificial Intelligence in the future.
 
