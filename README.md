@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 - Java
 
 &nbsp;&nbsp;
-### Github Stats
-[![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushk4)](https://github.com/anuraghazra/github-readme-stats)
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 #### 📫Reach out to me through [LinkedIn](https://www.linkedin.com/in/anushka-srivastava-798540255/)
