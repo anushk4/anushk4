@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱Currently learning web development and app development.
 - 🙌Interested to learn Machine Learning and Artificial Intelligence in the future.
 
-&nbsp;&nbsp
+&nbsp;&nbsp;
 > "In theory, theory and practice are the same. In practice, they’re not." - Yoggi Berra
 
 &nbsp;&nbsp;
