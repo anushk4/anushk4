@@ -1,4 +1,4 @@
-### Hi there, I am Anushka Srivastava 👋
+## Hi there, I am Anushka Srivastava 👋
 
 <!--
 **anushk4/anushk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 > "In theory, theory and practice are the same. In practice, they’re not." - Yoggi Berra
 
 &nbsp;&nbsp;&nbsp;
-#### Skilled at the following:
+### Skilled at the following:
 - Python
 - C
 - Dart
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - Java
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-Reach out to me through [LinkedIn](linkedin.com/in/anushka-srivastava-798540255)
+#### Reach out to me through [LinkedIn](linkedin.com/in/anushka-srivastava-798540255)
